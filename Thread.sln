@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChildrenTask", "ChildrenTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfParametersForTasks", "SelfParametersForTasks\SelfParametersForTasks.csproj", "{D801A876-A00B-427A-AC0D-679424624ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueWith", "ContinueWith\ContinueWith.csproj", "{D5620AA0-60A0-4B32-AD72-35C77FB1CC13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D801A876-A00B-427A-AC0D-679424624ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D801A876-A00B-427A-AC0D-679424624ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D801A876-A00B-427A-AC0D-679424624ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5620AA0-60A0-4B32-AD72-35C77FB1CC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5620AA0-60A0-4B32-AD72-35C77FB1CC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5620AA0-60A0-4B32-AD72-35C77FB1CC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5620AA0-60A0-4B32-AD72-35C77FB1CC13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
