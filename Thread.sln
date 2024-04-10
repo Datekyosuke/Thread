@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueWith", "ContinueWit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueWithTwo", "ContinueWithTwo\ContinueWithTwo.csproj", "{DC794F86-20E6-4E57-AE29-84DAA88624F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueWithThree", "ContinueWithThree\ContinueWithThree.csproj", "{8BBC2F87-EEC3-40CF-BD1C-89A53B49BAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueWithThree", "ContinueWithThree\ContinueWithThree.csproj", "{8BBC2F87-EEC3-40CF-BD1C-89A53B49BAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFactory", "TaskFactory\TaskFactory.csproj", "{31D2BE2F-AAF3-4E39-8445-247AE9F2059D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskFactory", "TaskFactory\TaskFactory.csproj", "{31D2BE2F-AAF3-4E39-8445-247AE9F2059D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTask", "ValueTask\ValueTask.csproj", "{CD002182-6E51-47E4-89A4-CD32D5697A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTask", "ValueTask\ValueTask.csproj", "{CD002182-6E51-47E4-89A4-CD32D5697A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTasktwo", "ValueTasktwo\ValueTasktwo.csproj", "{34EFB277-5582-4617-8440-99D26F4F2D21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTasktwo", "ValueTasktwo\ValueTasktwo.csproj", "{34EFB277-5582-4617-8440-99D26F4F2D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTaskThree", "ValueTaskThree\ValueTaskThree.csproj", "{22F1CE1F-8629-41E9-B586-284BF4EA18E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTaskThree", "ValueTaskThree\ValueTaskThree.csproj", "{22F1CE1F-8629-41E9-B586-284BF4EA18E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSheduler", "TaskSheduler\TaskSheduler.csproj", "{2E725ED3-283F-4E19-B293-145529348F86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{22F1CE1F-8629-41E9-B586-284BF4EA18E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F1CE1F-8629-41E9-B586-284BF4EA18E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F1CE1F-8629-41E9-B586-284BF4EA18E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E725ED3-283F-4E19-B293-145529348F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E725ED3-283F-4E19-B293-145529348F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E725ED3-283F-4E19-B293-145529348F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E725ED3-283F-4E19-B293-145529348F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
